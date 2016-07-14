@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBSync3", "DBSync3\DBSync3.csproj", "{A8DE9C1D-F180-436B-8771-ED40BB9BE98C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8DE9C1D-F180-436B-8771-ED40BB9BE98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8DE9C1D-F180-436B-8771-ED40BB9BE98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8DE9C1D-F180-436B-8771-ED40BB9BE98C}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8DE9C1D-F180-436B-8771-ED40BB9BE98C}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
